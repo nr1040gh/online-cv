@@ -59,7 +59,7 @@ education:
     - degree: BS in Physics
       university: University of New Hampshire
       time: 2016 - 2020
-      gpa: gpa - 3.56
+      #gpa: gpa - 3.56
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
