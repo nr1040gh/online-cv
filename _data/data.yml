@@ -16,8 +16,8 @@ sidebar:
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/nicholas-richards-n97/
-    xing: alandoe
-    github: sharu725
+    xing: #alandoe
+    github: https://github.com/nr1040gh/
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -26,15 +26,15 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: English
-        level: Native
+    #languages:
+    #  - idiom: English
+    #    level: Native
 
-      - idiom: French
-        level: Professional
+    #  - idiom: French
+    #    level: Professional
 
-      - idiom: Spanish
-        level: Professional
+    #  - idiom: Spanish
+    #    level: Professional
 
     interests:
       - item: Climbing
@@ -59,6 +59,7 @@ education:
     - degree: BS in Physics
       university: University of New Hampshire
       time: 2016 - 2020
+      gpa: gpa - 3.56
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
