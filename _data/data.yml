@@ -16,15 +16,15 @@ sidebar:
     #phone: 012 345 6789
     #website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/nicholas-richards-n97/
-    xing: #alandoe
+    #xing: #alandoe
     github: https://github.com/nr1040gh/
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
     #twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     #languages:
     #  - idiom: English
